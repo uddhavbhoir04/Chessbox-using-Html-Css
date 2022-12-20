@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+<title>chess </title>
+<style>
+.container{
+border:5px solid black;
+height:600px;
+width:600px;
+margin:auto;
+}
+.firstcolumn{
+display:flex;
+}
+#black{
+font-size:60px;
+text-align:center;
+height: 75px;
+width: 75px;
+background-color:gray;
+}
+.white{
+font-size:60px;
+text-align:center;
+height:75px;
+width:75px;
+background-color:white;
+}
+.secondcolumn{
+display:flex;
+}
+
+</style>
+</head>
+<body>
+<div class="container">
+<div class=firstcolumn>
+<div id="black">&#9816;</div>
+<div class="white">&#9814;</div>
+<div id="black">&#9815;</div>
+<div class="white">&#9812;</div>
+<div id="black">&#9813;</div>
+<div class="white">&#9815;</div>
+<div id="black">&#9814;</div>
+<div class="white">&#9816;</div>
+</div>
+<div class=secondcolumn>
+<div class="white">&#9817;</div>
+<div id="black">&#9817;</div>
+<div class="white">&#9817;</div>
+<div id="black">&#9817;</div>
+<div class="white">&#9817;</div>
+<div id="black">&#9817;</div>
+<div class="white">&#9817;</div>
+<div id="black">&#9817;</div>
+</div>
+<div class=firstcolumn>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+</div>
+<div class=secondcolumn>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+</div>
+<div class=firstcolumn>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+</div>
+<div class=secondcolumn>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+<div class="white"></div>
+<div id="black"></div>
+</div>
+<div class=firstcolumn>
+<div id="black">&#9823;</div>
+<div class="white">&#9823;</div>
+<div id="black">&#9823;</div>
+<div class="white">&#9823;</div>
+<div id="black">&#9823;</div>
+<div class="white">&#9823;</div>
+<div id="black">&#9823;</div>
+<div class="white">&#9823;</div>
+</div>
+<div class=secondcolumn>
+<div class="white">&#9822;</div>
+<div id="black">&#9820;</div>
+<div class="white">&#9821;</div>
+<div id="black">&#9818;</div>
+<div class="white">&#9819;</div>
+<div id="black">&#9821;</div>
+<div class="white">&#9820;</div>
+<div id="black">&#9822;</div>
+</div>
+</div>
+</body>
+</html>
